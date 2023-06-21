@@ -1,0 +1,8 @@
+﻿Solution already exists
+User: TTS, Contest: PythonFundamentals, Task: 2, Points: 50.0
+User: TTS, Contest: PythonFundamentals, Task: 2, Points: 100.0
+Solution not found
+100.0
+Certificate not found
+PythonBasics,PythonFundamentals
+Ro6afF,TTS
